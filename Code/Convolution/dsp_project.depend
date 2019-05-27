@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1556985030 source:e:\udemy\dsp from the ground up in c\code\signal_variance\waveforms.c
+
+1557069028 source:e:\udemy\dsp from the ground up in c\code\signal_variance\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1556985030 source:e:\udemy\dsp from the ground up in c\code\signal_std\waveforms.c
+
+1557344618 source:e:\udemy\dsp from the ground up in c\code\convolution\waveforms.c
+
+1557381274 source:e:\udemy\dsp from the ground up in c\code\convolution\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

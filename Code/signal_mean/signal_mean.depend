@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1556985030 source:e:\udemy\dsp from the ground up in c\code\signal_mean\waveforms.c
+
+1556997826 source:e:\udemy\dsp from the ground up in c\code\signal_mean\main.c
+	<stdio.h>
+	<stdlib.h>
+

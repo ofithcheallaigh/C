@@ -1,0 +1,2 @@
+C:\Users\a1038064\AppData\Local\Temp\ccuQerTF.o:main.c:(.rdata$.refptr.InputSignal_f32_1kHz_15kHz[.refptr.InputSignal_f32_1kHz_15kHz]+0x0): undefined reference to `InputSignal_f32_1kHz_15kHz'
+collect2.exe: error: ld returned 1 exit status
